@@ -2,7 +2,7 @@
 
 ## Student Details
 - Name: Shaun Rikhotso
-- Student Number: YOUR STUDENT NUMBER
+- Student Number: ST10520428
 - Module: PROG5121
 - Assignment: POE Part 2
 
