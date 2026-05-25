@@ -111,21 +111,9 @@ JUnit tests were created to test:
 
 # GitHub Repository
 
-PASTE YOUR GITHUB LINK HERE
+https://github.com/shaunlabile-ux/PART-2.git
 
 ---
-
-# Video Demonstration
-
-The video demonstrates:
-- Program structure
-- Registration and login
-- Message functionality
-- Validation methods
-- JUnit testing
-- Program execution
-
-PASTE YOUR YOUTUBE LINK HERE
 
 ---
 
