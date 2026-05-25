@@ -1,7 +1,7 @@
 # QuickChat Application – Part 2
 
 ## Student Details
-- Name: YOUR NAME
+- Name: Shaun Rikhotso
 - Student Number: YOUR STUDENT NUMBER
 - Module: PROG5121
 - Assignment: POE Part 2
